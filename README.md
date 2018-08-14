@@ -1,2 +1,2 @@
 # CCC
-A repository of some of my CCC solutions sorted by year.
+A repository of some of my CCC solutions.
